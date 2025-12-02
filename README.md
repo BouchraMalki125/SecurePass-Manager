@@ -1,2 +1,2 @@
 # SecurePass-Manager
-Mon super gestionnaire de mots de passe en Python
+Mon gestionnaire de mots de passe/projet poo
